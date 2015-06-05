@@ -1,4 +1,4 @@
-### application.bat - 201x - votre nom ###
+### application.bat - 201x - Alexis DÉSERT ###
 version = "2"
 build_hour = "11H00"
 
